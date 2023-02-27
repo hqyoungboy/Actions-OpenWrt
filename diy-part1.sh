@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 cat >> feeds.conf.default <<EOF
-src-git app https://github.com/hqyoungboy/small-package
+src-git smpackage https://github.com/kenzok8/small-package
 EOF
