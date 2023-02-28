@@ -25,5 +25,5 @@ rm -rf feeds/app/luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git Package/luci-app-adguardhome
 
 #pushd package/lean
-#git clone --depth=1 https://github.com/rufengsuixing/luci-app-adguardhome
+#git clone --depth=1 https://github.com/hqjbboy/small-package/tree/main/diy/.packages/luci-app-adguardhome
 #popd
